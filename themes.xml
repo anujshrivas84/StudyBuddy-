@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AnixStudyBuddy" parent="android:Theme.Material.NoTitleBar">
+        <item name="android:windowBackground">#0B0B0B</item>
+        <item name="android:statusBarColor">#0B0B0B</item>
+        <item name="android:navigationBarColor">#111111</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

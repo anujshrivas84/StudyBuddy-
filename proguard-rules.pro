@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keep class com.anix.studybuddy.model.** { *; }
+-keep class com.anix.studybuddy.data.** { *; }
